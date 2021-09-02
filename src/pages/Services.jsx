@@ -10,7 +10,7 @@ const Services = () => {
         <motion.div initial='out' animate='end' exit='out' variants={animationThree}>
             <Header />
             <Hero image={Image} title="Look at this Bird" desc="can you belive this?"/>
-            Services
+            
         </motion.div>
     )
 }

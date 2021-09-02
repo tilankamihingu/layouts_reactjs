@@ -11,7 +11,7 @@ const About = () => {
         <motion.div initial='out' animate='in' exit='out' variants={animationTwo}>
             <Header />
             <Hero image={Image} title="Beautiful views" desc="Never Seen Before" />
-            About
+        
         </motion.div>
     );
 };
